@@ -1,0 +1,7 @@
+.banner-bg1{
+    background-image: url("./src/assets/img/banner/bg-1.jpg");
+}
+
+.hover-botton:hover{
+    background-color: white;
+}
