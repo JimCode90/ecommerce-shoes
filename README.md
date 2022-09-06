@@ -18,6 +18,11 @@ npm run dev
 npm run build
 ```
 
+## Proyecto desplegado a Netlify
+```
+https://ecommerce-shoes-app.netlify.app/
+```
+
 ## Librerias utilizadas
 ```
 "@ant-design/icons": "^4.7.0"
@@ -27,4 +32,4 @@ npm run build
 ```
 
 
-## Proyecto desarrollado por JimCode
+#### Proyecto desarrollado por "JimCode"
